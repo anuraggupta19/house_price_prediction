@@ -10,6 +10,9 @@ The specific objectives include:<br>
 4. Machine Learning Model Development.
 5. Website Development
 
+# Guide
+https://github.com/anuraggupta19/house_price_prediction/assets/89268385/1a7d538b-cf8c-49ac-8fad-c39d3be96721
+
 # Tools & Technologies Used:
 1. Python
 2. Numpy and Pandas for data cleaning
