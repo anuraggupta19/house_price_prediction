@@ -11,7 +11,7 @@ The specific objectives include:<br>
 5. Website Development
 
 # Guide
-https://github.com/anuraggupta19/house_price_prediction/assets/89268385/1a7d538b-cf8c-49ac-8fad-c39d3be96721
+[https://github.com/anuraggupta19/house_price_prediction/assets/89268385/1a7d538b-cf8c-49ac-8fad-c39d3be96721](https://github.com/anuraggupta19/house_price_prediction/assets/89268385/5859bb72-2613-4874-944f-b80dd1aadde8)
 
 # Tools & Technologies Used:
 1. Python
