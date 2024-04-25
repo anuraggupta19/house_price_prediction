@@ -23,7 +23,7 @@ The specific objectives include:<br>
 7. HTML/CSS for UI
 
 # Disclaimer
-This project is build under the supervision of Aligarh College of Engineering and Technology as our final year project for the session 2020-2024.
+This project is build under the supervision of Aligarh College of Engineering and Technology affilated to Dr. A.P.J Abdul Kalam Technical University for the award of the degree of Bachelor of Technology (CSE) for the session 2020-2024.
 Project includes 3 team members:
 1. Anurag Gupta
 2. Arpit Kr. Nauhwara
